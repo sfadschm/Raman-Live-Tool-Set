@@ -1,8 +1,11 @@
 # Changelog
 
 ## v10.2.3 (2022-03-08)
-**Fixed bugs:**
-- Do not export interpolated map data as these are not *real*.
+**Implemented Enhancements:**
+- Added user guide and documentation.
+
+**Fixed Bugs:**
+- Do not export interpolated data.
 
 ## v10.2.2 (2021-09-13)
 **Implemented Enhancements:**
